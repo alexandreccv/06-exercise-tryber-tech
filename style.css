@@ -48,3 +48,18 @@ h4 {
   width: 170px;
 }
 
+.footer-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.social-instagram {
+  width: 25px;
+  margin-left: 10px;
+}
+
+.social-linkedin {
+  width: 25px;
+  margin-left: 10px;
+}
